@@ -1,0 +1,14 @@
+[
+  {
+    "filename": "physics2023.pdf",
+    "subject": "Physics",
+    "year": "2023",
+    "url": "/static/papers/physics2023.pdf"
+  },
+  {
+    "filename": "electronics_communications2023.pdf",
+    "subject": "Electronics",
+    "year": "2023",
+    "url": "/static/papers/electronics_communications2023.pdf"
+  }
+]
